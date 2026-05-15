@@ -1,0 +1,102 @@
+{
+  "players": [
+    {
+      "id": "1778812878333",
+      "number": "4",
+      "name": "Connor Tunnock"
+    },
+    {
+      "id": "1778812882087",
+      "number": "7",
+      "name": "James Briggs"
+    },
+    {
+      "id": "1778812877451",
+      "number": "8",
+      "name": "William Callanan"
+    },
+    {
+      "id": "1778812879470",
+      "number": "9",
+      "name": "Zachary Clarke"
+    },
+    {
+      "id": "1778812883792",
+      "number": "10",
+      "name": "Charlie Taffe"
+    },
+    {
+      "id": "1778812885263",
+      "number": "3",
+      "name": "Hamish Coffey"
+    },
+    {
+      "id": "1778812884297",
+      "number": "14",
+      "name": "Jake Maskiell"
+    },
+    {
+      "id": "1778812882354",
+      "number": "15",
+      "name": "Hudson Millis"
+    },
+    {
+      "id": "1778812882619",
+      "number": "16",
+      "name": "Hunter Flack"
+    },
+    {
+      "id": "1778812878424",
+      "number": "17",
+      "name": "Charles Murphy"
+    },
+    {
+      "id": "1778812885793",
+      "number": "19",
+      "name": "Patrick Monahan"
+    },
+    {
+      "id": "1778812882616",
+      "number": "21",
+      "name": "Luca Imperatori"
+    },
+    {
+      "id": "1778812882031",
+      "number": "23",
+      "name": "Oliver Newington"
+    },
+    {
+      "id": "1778812882057",
+      "number": "24",
+      "name": "Ned Jarvis"
+    },
+    {
+      "id": "1778812882436",
+      "number": "25",
+      "name": "Percy Curran"
+    },
+    {
+      "id": "1778812882582",
+      "number": "27",
+      "name": "Harry Inkster"
+    },
+    {
+      "id": "1778812876706",
+      "number": "29",
+      "name": "Paddy Concannon"
+    },
+    {
+      "id": "1778812877636",
+      "number": "30",
+      "name": "Albert Shrimpton"
+    },
+    {
+      "id": "1778812884506",
+      "number": "13",
+      "name": "Oliver Walsh"
+    }
+  ],
+  "matches": [],
+  "_syncedAt": "2026-05-15T04:59:57.545Z",
+  "_version": 2
+}
