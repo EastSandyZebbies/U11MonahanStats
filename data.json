@@ -96,7 +96,92 @@
       "name": "Oliver Walsh"
     }
   ],
-  "matches": [],
-  "_syncedAt": "2026-05-17T05:04:22.089Z",
+  "matches": [
+    {
+      "id": 1778977060409,
+      "round": "5",
+      "opposition": "Brighton Beach ",
+      "date": "2026-05-17",
+      "locked": false,
+      "ourG": 5,
+      "ourB": 3,
+      "oppG": 3,
+      "oppB": 4,
+      "stats": {
+        "clearances": 3,
+        "handballs": 23,
+        "tackles": 64
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17789778731390.13686747282505973",
+              "time": 1778978375793
+            },
+            {
+              "playerId": "1778812878333",
+              "time": 1778978799484
+            }
+          ],
+          "ourBehinds": [],
+          "oppGoals": 2,
+          "oppBehinds": 1
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "1778812882582",
+              "time": 1778979181887
+            },
+            {
+              "playerId": "1778812882057",
+              "time": 1778980063306
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "1778812885263",
+              "time": 1778979976378
+            },
+            {
+              "playerId": "1778812879470",
+              "time": 1778980015066
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "1778812884297",
+              "time": 1778980768948
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "1778812879470",
+              "time": 1778981488213
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 1,
+          "oppBehinds": 3
+        }
+      },
+      "playersOfMatch": [
+        "1778812876706",
+        "1778812882057"
+      ],
+      "narrative": "The boys ground out a tough 11-point victory against Brighton Beach, with our defensive pressure absolutely stellar—64 tackles is a massive effort that shows how hard everyone worked without the ball. Paddy Concannon and Ned Jarvis were outstanding in earning Players of the Match honors, while goals were shared around beautifully with Morris Finch, Connor Tunnock, and Harry Inkster all hitting the scoreboard. Great team win built on relentless effort!"
+    }
+  ],
+  "_syncedAt": "2026-05-17T05:06:14.436Z",
   "_version": 2
 }
