@@ -1,6 +1,11 @@
 {
   "players": [
     {
+      "id": "1778812885263",
+      "number": "3",
+      "name": "Hamish Coffey"
+    },
+    {
       "id": "1778812878333",
       "number": "4",
       "name": "Connor Tunnock"
@@ -26,9 +31,9 @@
       "name": "Charlie Taffe"
     },
     {
-      "id": "1778812885263",
-      "number": "3",
-      "name": "Hamish Coffey"
+      "id": "1778812884506",
+      "number": "13",
+      "name": "Oliver Walsh"
     },
     {
       "id": "1778812884297",
@@ -91,9 +96,9 @@
       "name": "Albert Shrimpton"
     },
     {
-      "id": "1778812884506",
-      "number": "13",
-      "name": "Oliver Walsh"
+      "id": "17801906845930.5177246026269854",
+      "number": "133",
+      "name": "Ari"
     }
   ],
   "matches": [
@@ -182,6 +187,6 @@
       "narrative": "The boys ground out a tough 11-point victory against Brighton Beach, with our defensive pressure absolutely stellar—64 tackles is a massive effort that shows how hard everyone worked without the ball. Paddy Concannon and Ned Jarvis were outstanding in earning Players of the Match honors, while goals were shared around beautifully with Morris Finch, Connor Tunnock, and Harry Inkster all hitting the scoreboard. Great team win built on relentless effort!"
     }
   ],
-  "_syncedAt": "2026-05-31T01:21:29.488Z",
+  "_syncedAt": "2026-05-31T01:24:46.595Z",
   "_version": 2
 }
