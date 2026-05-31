@@ -200,8 +200,114 @@
         "1778812882057"
       ],
       "narrative": "The boys ground out a tough 11-point victory against Brighton Beach, with our defensive pressure absolutely stellar—64 tackles is a massive effort that shows how hard everyone worked without the ball. Paddy Concannon and Ned Jarvis were outstanding in earning Players of the Match honors, while goals were shared around beautifully with Morris Finch, Connor Tunnock, and Harry Inkster all hitting the scoreboard. Great team win built on relentless effort!"
+    },
+    {
+      "id": 1780190066081,
+      "round": "6",
+      "opposition": "East Malvern",
+      "date": "2026-05-31",
+      "locked": false,
+      "ourG": 7,
+      "ourB": 6,
+      "oppG": 6,
+      "oppB": 7,
+      "stats": {
+        "clearances": 6,
+        "handballs": 16,
+        "tackles": 42
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "1778812882057",
+              "time": 1780192954862
+            },
+            {
+              "playerId": "17801907056040.4251869577481975",
+              "time": 1780192958887
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17801907056040.4251869577481975",
+              "time": 1780192966863
+            },
+            {
+              "playerId": "1778812882057",
+              "time": 1780192971612
+            }
+          ],
+          "oppGoals": 2,
+          "oppBehinds": 2
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "1778812876706",
+              "time": 1780193583256
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "1778812879470",
+              "time": 1780192912713
+            },
+            {
+              "playerId": "17801906845930.5177246026269854",
+              "time": 1780192989966
+            }
+          ],
+          "oppGoals": 2,
+          "oppBehinds": 2
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17801906845930.5177246026269854",
+              "time": 1780194209230
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "1778812879470",
+              "time": 1780194449892
+            },
+            {
+              "playerId": "1778812879470",
+              "time": 1780194557604
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 1
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17801906845930.5177246026269854",
+              "time": 1780195377841
+            },
+            {
+              "playerId": "1778812879470",
+              "time": 1780195675490
+            },
+            {
+              "playerId": "1778812879470",
+              "time": 1780195788375
+            }
+          ],
+          "ourBehinds": [],
+          "oppGoals": 1,
+          "oppBehinds": 2
+        }
+      },
+      "playersOfMatch": [
+        "17801906845930.5177246026269854",
+        "1778812879470"
+      ],
+      "matchNotes": "MVPs: Zac and Ari"
     }
   ],
-  "_syncedAt": "2026-05-31T03:10:22.810Z",
+  "_syncedAt": "2026-05-31T03:10:32.273Z",
   "_version": 2
 }
