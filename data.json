@@ -321,8 +321,87 @@
         "1778812879470"
       ],
       "matchNotes": "MVPs: Zac and Ari"
+    },
+    {
+      "id": 1780197030272,
+      "round": "7",
+      "opposition": "East Brighton",
+      "date": "2026-06-14",
+      "locked": false,
+      "ourG": 4,
+      "ourB": 3,
+      "oppG": 9,
+      "oppB": 6,
+      "stats": {
+        "clearances": 5,
+        "handballs": 28,
+        "tackles": 35
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "1778812884297",
+              "time": 1781390348044
+            },
+            {
+              "playerId": "1778812879470",
+              "time": 1781390751822
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "1778812883792",
+              "time": 1781390187645
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [],
+          "ourBehinds": [
+            {
+              "playerId": "1778812883792",
+              "time": 1781391145522
+            },
+            {
+              "playerId": "1778812885793",
+              "time": 1781391699413
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 1
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "1778812884297",
+              "time": 1781392612032
+            },
+            {
+              "playerId": "1778812878333",
+              "time": 1781393214087
+            }
+          ],
+          "ourBehinds": [],
+          "oppGoals": 3,
+          "oppBehinds": 3
+        },
+        "Q4": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 4,
+          "oppBehinds": 2
+        }
+      },
+      "playersOfMatch": [
+        "17813959340780.9660204796092599",
+        "17813886843740.7981935165807654"
+      ],
+      "matchNotes": ""
     }
   ],
-  "_syncedAt": "2026-06-14T00:12:34.227Z",
+  "_syncedAt": "2026-06-14T00:12:38.496Z",
   "_version": 2
 }
