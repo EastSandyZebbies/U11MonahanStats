@@ -333,101 +333,6 @@
       "matchNotes": "MVPs: Zac and Ari"
     },
     {
-      "id": 1784411252939,
-      "round": "6",
-      "opposition": "Hampton Rovers Yellow",
-      "date": "2026-07-18",
-      "locked": false,
-      "ourG": 4,
-      "ourB": 7,
-      "oppG": 3,
-      "oppB": 3,
-      "stats": {
-        "clearances": 16,
-        "handballs": 52,
-        "tackles": 44
-      },
-      "quarters": {
-        "Q1": {
-          "ourGoals": [],
-          "ourBehinds": [
-            {
-              "playerId": "17826115635160.6259415747099799",
-              "time": 1784412976824
-            },
-            {
-              "playerId": "17826115635160.6259415747099799",
-              "time": 1784412987890
-            }
-          ],
-          "oppGoals": 1,
-          "oppBehinds": 0
-        },
-        "Q2": {
-          "ourGoals": [
-            {
-              "playerId": "1778812879470",
-              "time": 1784413594055
-            }
-          ],
-          "ourBehinds": [
-            {
-              "playerId": "17826115635160.6259415747099799",
-              "time": 1784413576632
-            },
-            {
-              "playerId": "1778812882031",
-              "time": 1784414041125
-            },
-            {
-              "playerId": "17826115635160.6259415747099799",
-              "time": 1784414223048
-            }
-          ],
-          "oppGoals": 1,
-          "oppBehinds": 0
-        },
-        "Q3": {
-          "ourGoals": [
-            {
-              "playerId": "1778812884297",
-              "time": 1784415503660
-            }
-          ],
-          "ourBehinds": [
-            {
-              "playerId": "17826115635160.6259415747099799",
-              "time": 1784415090192
-            }
-          ],
-          "oppGoals": 1,
-          "oppBehinds": 2
-        },
-        "Q4": {
-          "ourGoals": [
-            {
-              "playerId": "1778812878333",
-              "time": 1784415972093
-            },
-            {
-              "playerId": "1778812879470",
-              "time": 1784416580747
-            }
-          ],
-          "ourBehinds": [
-            {
-              "playerId": "17813959340780.9660204796092599",
-              "time": 1784416099725
-            }
-          ],
-          "oppGoals": 0,
-          "oppBehinds": 1
-        }
-      },
-      "playersOfMatch": [],
-      "matchNotes": ""
-    },
-    {
       "id": 1780197030272,
       "round": "7",
       "opposition": "East Brighton",
@@ -505,8 +410,103 @@
         "17813886843740.7981935165807654"
       ],
       "matchNotes": ""
+    },
+    {
+      "id": 1784411252939,
+      "round": "8",
+      "opposition": "Hampton Rovers Yellow",
+      "date": "2026-07-18",
+      "locked": false,
+      "ourG": 4,
+      "ourB": 7,
+      "oppG": 3,
+      "oppB": 3,
+      "stats": {
+        "clearances": 16,
+        "handballs": 52,
+        "tackles": 44
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [],
+          "ourBehinds": [
+            {
+              "id": 1784420164159.3767,
+              "playerId": "17826115635160.6259415747099799"
+            },
+            {
+              "id": 1784420164159.7847,
+              "playerId": "17826115635160.6259415747099799"
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "id": 1784420164159.834,
+              "playerId": "1778812879470"
+            }
+          ],
+          "ourBehinds": [
+            {
+              "id": 1784420164159.2876,
+              "playerId": "17826115635160.6259415747099799"
+            },
+            {
+              "id": 1784420164159.4236,
+              "playerId": "1778812882031"
+            },
+            {
+              "id": 1784420164159.4,
+              "playerId": "17826115635160.6259415747099799"
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "id": 1784420164159.0933,
+              "playerId": "1778812884297"
+            }
+          ],
+          "ourBehinds": [
+            {
+              "id": 1784420164159.6948,
+              "playerId": "17826115635160.6259415747099799"
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 2
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "id": 1784420164159.9504,
+              "playerId": "1778812878333"
+            },
+            {
+              "id": 1784420164159.1619,
+              "playerId": "1778812879470"
+            }
+          ],
+          "ourBehinds": [
+            {
+              "id": 1784420164159.3093,
+              "playerId": "17813959340780.9660204796092599"
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 1
+        }
+      },
+      "playersOfMatch": [],
+      "matchNotes": ""
     }
   ],
-  "_syncedAt": "2026-07-19T00:14:12.029Z",
+  "_syncedAt": "2026-07-19T00:16:17.934Z",
   "_version": 2
 }
