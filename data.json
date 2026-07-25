@@ -143,6 +143,418 @@
   ],
   "matches": [
     {
+      "id": 1777800000001,
+      "round": "1",
+      "opposition": "East Brighton Vampires",
+      "date": "2026-04-19",
+      "locked": false,
+      "ourG": 10,
+      "ourB": 5,
+      "oppG": 7,
+      "oppB": 1,
+      "stats": {
+        "clearances": 0,
+        "handballs": 0,
+        "tackles": 0
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800000001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800000002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800000003
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800000004
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800000005
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800000006
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800000007
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800000008
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800000009
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800000010
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800001001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800001002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800001003
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800001004
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1777800001005
+            }
+          ],
+          "oppGoals": 7,
+          "oppBehinds": 1
+        }
+      },
+      "playersOfMatch": [],
+      "matchNotes": "Score reconstructed from SMJFL records — individual stats not available",
+      "narrative": ""
+    },
+    {
+      "id": 1778200000001,
+      "round": "2",
+      "opposition": "Murrumbeena Lions",
+      "date": "2026-04-26",
+      "locked": false,
+      "ourG": 6,
+      "ourB": 9,
+      "oppG": 6,
+      "oppB": 7,
+      "stats": {
+        "clearances": 0,
+        "handballs": 0,
+        "tackles": 0
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200000001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200000002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200000003
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200000004
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200000005
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200000006
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200001001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200001002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200001003
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200001004
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200001005
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200001006
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200001007
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200001008
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778200001009
+            }
+          ],
+          "oppGoals": 6,
+          "oppBehinds": 7
+        }
+      },
+      "playersOfMatch": [],
+      "matchNotes": "Score reconstructed from SMJFL records — individual stats not available",
+      "narrative": ""
+    },
+    {
+      "id": 1778600000001,
+      "round": "3",
+      "opposition": "Mordi-Brae",
+      "date": "2026-05-03",
+      "locked": false,
+      "ourG": 3,
+      "ourB": 10,
+      "oppG": 5,
+      "oppB": 6,
+      "stats": {
+        "clearances": 0,
+        "handballs": 0,
+        "tackles": 0
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600000001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600000002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600000003
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600001001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600001002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600001003
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600001004
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600001005
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600001006
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600001007
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600001008
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600001009
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778600001010
+            }
+          ],
+          "oppGoals": 5,
+          "oppBehinds": 6
+        }
+      },
+      "playersOfMatch": [],
+      "matchNotes": "Score reconstructed from SMJFL records — individual stats not available",
+      "narrative": ""
+    },
+    {
+      "id": 1778800000001,
+      "round": "4",
+      "opposition": "Hampton Rovers",
+      "date": "2026-05-10",
+      "locked": false,
+      "ourG": 5,
+      "ourB": 8,
+      "oppG": 9,
+      "oppB": 8,
+      "stats": {
+        "clearances": 0,
+        "handballs": 0,
+        "tackles": 0
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800000001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800000002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800000003
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800000004
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800000005
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800001001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800001002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800001003
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800001004
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800001005
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800001006
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800001007
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1778800001008
+            }
+          ],
+          "oppGoals": 9,
+          "oppBehinds": 8
+        }
+      },
+      "playersOfMatch": [],
+      "matchNotes": "Score reconstructed from SMJFL records — individual stats not available",
+      "narrative": ""
+    },
+    {
       "id": 1778977060409,
       "round": "5",
       "opposition": "Brighton Beach ",
@@ -505,8 +917,239 @@
       },
       "playersOfMatch": [],
       "matchNotes": ""
+    },
+    {
+      "id": 1781400000001,
+      "round": "9",
+      "opposition": "Murrumbeena Lions",
+      "date": "2026-06-21",
+      "locked": false,
+      "ourG": 7,
+      "ourB": 5,
+      "oppG": 2,
+      "oppB": 7,
+      "stats": {
+        "clearances": 0,
+        "handballs": 0,
+        "tackles": 0
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400000001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400000002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400000003
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400000004
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400000005
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400000006
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400000007
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400001001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400001002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400001003
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400001004
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1781400001005
+            }
+          ],
+          "oppGoals": 2,
+          "oppBehinds": 7
+        }
+      },
+      "playersOfMatch": [],
+      "matchNotes": "Score reconstructed from SMJFL records — individual stats not available",
+      "narrative": ""
+    },
+    {
+      "id": 1782000000001,
+      "round": "10",
+      "opposition": "Mordi-Brae",
+      "date": "2026-06-28",
+      "locked": false,
+      "ourG": 0,
+      "ourB": 0,
+      "oppG": 10,
+      "oppB": 0,
+      "stats": {
+        "clearances": 0,
+        "handballs": 0,
+        "tackles": 0
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 10,
+          "oppBehinds": 0
+        }
+      },
+      "playersOfMatch": [],
+      "matchNotes": "Disqualification — recorded as 0.0 (0) loss",
+      "narrative": ""
+    },
+    {
+      "id": 1784400000001,
+      "round": "11",
+      "opposition": "Hampton Rovers",
+      "date": "2026-07-19",
+      "locked": false,
+      "ourG": 4,
+      "ourB": 7,
+      "oppG": 3,
+      "oppB": 3,
+      "stats": {
+        "clearances": 0,
+        "handballs": 0,
+        "tackles": 0
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1784400000001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1784400000002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1784400000003
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1784400000004
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1784400001001
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1784400001002
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1784400001003
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1784400001004
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1784400001005
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1784400001006
+            },
+            {
+              "playerId": "17826115635160.6259415747099799",
+              "time": 1784400001007
+            }
+          ],
+          "oppGoals": 3,
+          "oppBehinds": 3
+        }
+      },
+      "playersOfMatch": [],
+      "matchNotes": "Score reconstructed from SMJFL records — individual stats not available",
+      "narrative": ""
     }
   ],
-  "_syncedAt": "2026-07-25T11:57:00.835Z",
+  "_syncedAt": "2026-07-25T12:20:43.191Z",
   "_version": 2
 }
