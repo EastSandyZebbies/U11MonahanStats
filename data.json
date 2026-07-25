@@ -918,7 +918,8 @@
         }
       },
       "playersOfMatch": [],
-      "matchNotes": ""
+      "matchNotes": "",
+      "narrative": "The boys produced their best clearance work of the season with an incredible 16 compared to their usual 1, helping secure a hard-fought 10-point victory over Hampton Rovers Yellow. The midfield was electric, with handballs received skyrocketing to 52 (average just 7), while the defensive pressure was relentless with 44 tackles, more than triple the season average. Zachary Clarke led the scoreboard with 2 goals, supported by Jake Maskiell and Connor Tunnock who each added one in a gutsy team performance."
     },
     {
       "id": 1781400000001,
@@ -1152,6 +1153,6 @@
       "narrative": ""
     }
   ],
-  "_syncedAt": "2026-07-25T12:21:24.183Z",
+  "_syncedAt": "2026-07-25T12:21:30.119Z",
   "_version": 2
 }
